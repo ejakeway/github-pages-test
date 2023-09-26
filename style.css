@@ -1,11 +1,27 @@
-body {background-color:antiquewhite}
+html {
+  background: #ebeff1;
+  padding: 20px;
+}
+
+body {
+  background: #fff;
+  padding: 20px auto;
+  margin: 30px auto;
+  max-width: 900px;
+  border-width: 0 2px 2px 0;
+  border-color: #c7d4da;
+  border-style: solid;
+  color: #2A2A2A;
+}
 
 h1 {color:black; 
     text-align:center
     padding:50px;}
 
 /* Footer */
-.footer {
+
+footer {
+  padding: 20px;
   position:fixed;
   bottom:0;
   left:0;
