@@ -21,9 +21,9 @@ h1 {color:black;
 
 .wrap {
     height: auto;
-    margin: 0 auto -110px; /* footer height + space */
+    margin: 0 auto -120px; /* footer height + space */
     min-height: 100%;
-    padding: 0 0 110px; /* footer height + space */
+    padding: 0 0 120px; /* footer height + space */
     box-sizing: border-box;
     overflow: auto;
 }
@@ -33,13 +33,12 @@ h1 {color:black;
 footer {
   padding: 20px;
   border-top: 1px black;
-  height: 90px;  /* footer height */
+  height: 100px;  /* footer height */
   padding-top: 20px;
   display: block;
   margin-top: 20px; /* space between content and footer */
   box-sizing: border-box;
   position: relative;
   width: 100%;
-  background-color: #D0DAEE;
     
 }
